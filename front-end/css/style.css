@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.container {
+    max-width: 600px;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+.card {
+    padding: 20px;
+}
+.card-header {
+    font-weight: bold;
+    padding: 20px 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #cac8c8;
+}
+
+.card-body {
+    padding: 5px 10px;
+    border: 1px solid #cac8c8;
+}
+
+.card-text {
+    margin-bottom: 10px;
+}
